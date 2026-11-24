@@ -1,0 +1,7 @@
+[package]
+name = "tree-meeting-point"
+version = "0.1.0"
+edition = "2024"
+description = "Find the minimax meeting points of an unweighted tree"
+
+[dependencies]
